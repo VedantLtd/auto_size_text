@@ -178,11 +178,12 @@ class AutoSizeText extends StatefulWidget {
     this.scrollPhysics,
     this.onSelectionChanged,
     this.overflow,
+    this.softWrap,
   })  : assert(data != null, 'A non-null String must be provided to a AutoSizeText widget.'),
         textSpan = null,
         locale = null,
-        softWrap = null,
-        /*overflow = null,*/
+        /*softWrap = null,
+        overflow = null,*/
         overflowReplacement = null,
         semanticsLabel = null,
         _isSelectableText = true,

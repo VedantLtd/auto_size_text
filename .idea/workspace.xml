@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4c53c44-cfac-4021-ba1a-cb3e5d1ff707" name="Changes" comment="overflow error clean">
-      <change beforePath="$PROJECT_DIR$/.github/FUNDING.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/FUNDING.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/no-response.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/no-response.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/dart.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/dart.yml" afterDir="false" />
+    <list default="true" id="c4c53c44-cfac-4021-ba1a-cb3e5d1ff707" name="Changes" comment="Workflow file removed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/auto_size_text.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/auto_size_text.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +51,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660381184651</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Workflow file removed">
+      <created>1660381602071</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660381602071</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -66,9 +71,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="overflow error clean" />
-    <option name="LAST_COMMIT_MESSAGE" value="overflow error clean" />
+    <MESSAGE value="Workflow file removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Workflow file removed" />
   </component>
 </project>
